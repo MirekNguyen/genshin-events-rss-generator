@@ -1,0 +1,5 @@
+pytz
+feedgen
+youtube-search-python
+bs4
+requests
